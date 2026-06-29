@@ -97,4 +97,4 @@ python sentiment_analysis_on_reviews.py
 
 ## 👨‍💻 Author
 
-**Talal Khan**
+**Muhammad Talal Khan Tareen**
